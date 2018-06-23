@@ -1,0 +1,172 @@
+/*
+ * Copyright (C) 2018 Junpei Kawamoto
+ *
+ * This program is free software: you can redistribute it and/or modify
+ * it under the terms of the GNU General Public License as published by
+ * the Free Software Foundation, either version 3 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License
+ * along with this program. If not, see <http://www.gnu.org/licenses/>.
+ */
+
+body {
+  max-width: 1440px;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Quicksand sans-serif;
+}
+
+header {
+  max-width: 1140px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+header nav a {
+  object-fit: contain;
+  font-size: 14px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.04;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #3c94de;
+}
+
+h1 {
+  font-size: 38px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.26;
+  letter-spacing: normal;
+  text-align: center;
+  color: #354168;
+}
+
+h1 em {
+  color: #3c94de;
+  font-style: normal;
+}
+
+p {
+  max-width: 500px;
+  opacity: 0.8;
+  font-size: 17px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.76;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(0, 117, 229, 0.8);
+}
+
+p.wide {
+  max-width: 660px;
+}
+
+h1.white {
+  color: white;
+}
+
+p.white {
+  color: white;
+}
+
+section {
+  max-width: 1447px;
+  height: 900px;
+}
+
+footer {
+  max-width: 1447px;
+  background-color: #acd4f1;
+}
+
+footer div {
+  max-width: 950px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer h2 {
+  font-size: 15px;
+  font-weight: 500;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 2.04;
+  letter-spacing: 1px;
+  text-align: left;
+  color: #ffffff;
+  margin: 0;
+}
+
+footer nav {
+  opacity: 0.88;
+  font-size: 13px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: 1.69;
+  letter-spacing: 1px;
+  text-align: left;
+  color: rgba(255, 255, 255, 0.88);
+}
+
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+aside {
+  width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+aside div {
+  padding: 10px;
+}
+
+a {
+  color: white;
+}
+
+#sec1 {
+  text-align: center;
+  background: url("/img/bg-sec1-4.svg") 959px 769px no-repeat, url("/img/bg-sec1-3.svg") 354px 0 no-repeat, url("/img/bg-sec1-2.svg") -156px 23px no-repeat, url("/img/bg-sec1-1.svg") 451px 20px no-repeat;
+}
+
+#app {
+  margin-left: 155px;
+}
+
+#sec2 {
+  background: url("/img/bg-sec2-2.svg") 948px 182px no-repeat, url("/img/bg-sec2-1.svg") -76px 0 no-repeat;
+}
+
+#sec3 {
+  height: 980px;
+  background: url("/img/bg-sec3-3.svg") 1199px 786px no-repeat, url("/img/bg-sec3-2.svg") 130px 532px no-repeat, url("/img/bg-sec3-1.svg") -74px 0 no-repeat;
+}
+
+#sec4 {
+  background: url("/img/bg-sec4-4.svg") 1195px 765px no-repeat, url("/img/bg-sec4-3.svg") 719px 96px no-repeat, url("/img/bg-sec4-2.svg") 743px 160px no-repeat, url("/img/bg-sec4-1.svg") 898px 67px no-repeat, rgb(172, 212, 241);
+}
+
+#sec5 {
+  background: url("/img/bg-sec5-5.svg") 642px 803px no-repeat, url("/img/bg-sec5-4.svg") 548px 727px no-repeat, url("/img/bg-sec5-3.svg") 635px 658px no-repeat, url("/img/bg-sec5-2.svg") 91px 268px no-repeat, url("/img/bg-sec5-1.svg") 347px 128px no-repeat;
+}
+
+#sec6 {
+  height: 656px;
+  background-color: #f0f8fd;
+}

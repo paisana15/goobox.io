@@ -1,0 +1,10 @@
+<svg width="1059" height="4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs>
+        <path id="a" d="M65 640h1059v4H65z"/>
+    </defs>
+    <g transform="translate(-65 -640)" fill="none" fill-rule="evenodd">
+        <image x="65" y="640" width="1059" height="4"
+               xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAABCMAAAAECAYAAAC0qfVVAAAAAXNSR0IArs4c6QAAAUFJREFUeAHt2j9KA0EYhvE1iVUwEIIX8Bxa2UtMZ+UFNlgI5gapLTxALASbHCB9SkuRYJHCJkWQFGIliM9nMhAWUmeKZ+Bj/uzCvvvrZpiD04d5tyiKR6pF2RRQQAEFFFBAAQUUUEABBRRQIA+BFTGupuXJJOKwf7+n61O1mGfSvslxTcZxykPOIeM7qp7WtvpPxpfxAwPKg4gtGYcKKKCAAgoooIACCiiggAIKZCDQJsNt5GCDf0R3Q+V0EBHRmtR/xpiQ85Bu10FEvNKhyviJWcxsCiiggAIKKKCAAgoooIACCiiQncD7JlHcQPjILt060GvKxQ2JH8Ypc1qu9m8NVkrqhTquPnWugAIKKKCAAgoooIACCiiggAJ7E1jw5VF8nU3+L7cOzhheULGXz6V9EeSpEuaceY+KWxLVtmTh+Q/nASnTvfe8iAAAAABJRU5ErkJggg=="/>
+        <use fill-opacity="0" fill="#000" xlink:href="#a"/>
+    </g>
+</svg>
