@@ -144,6 +144,7 @@ a {
 #sec1 {
   text-align: center;
   overflow: hidden;
+  padding-bottom: 10px;
   background: url("/img/bg-sec1-4.svg") 959px 769px no-repeat,
   url("/img/bg-sec1-3.svg") 354px 0 no-repeat,
   url("/img/bg-sec1-2.svg") -156px 23px no-repeat,
