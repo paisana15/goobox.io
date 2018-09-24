@@ -1,0 +1,61 @@
+@import url(https://fonts.googleapis.com/css?family=opensans:500);
+body{
+    background: #e2f0fa;
+    color:#fff;
+    max-height:700px;
+    overflow: hidden;
+    font-family: 'Quicksand', sans-serif;
+}
+
+
+  .error-page{
+    text-align: center;
+    height: 100%;
+    white-space: nowrap;
+    word-break: normal;
+  }
+
+
+
+.btn{
+    color: #fff;
+    background-color: #007bff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+    margin-top: 4%;
+}
+
+.error-page-content-desktop{
+      vertical-align: middle;
+      padding-top: 6%;
+}
+
+.error-page-content-mobile{
+  display:none;
+}
+
+/* Mobile Styles */
+@media only screen and (max-width: 1202px) {
+
+
+}
+
+/* Adjusts */
+@media only screen and (max-width: 780px) {
+
+.error-page-content-desktop{
+  display: none;
+}
+
+.error-page-content-mobile{
+  display: inline-block;
+  position: fixed;
+    bottom: 0;
+    right: 0;
+}
+
+}
