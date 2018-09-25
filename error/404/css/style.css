@@ -38,11 +38,6 @@ body{
   display:none;
 }
 
-/* Mobile Styles */
-@media only screen and (max-width: 1202px) {
-
-
-}
 
 /* Adjusts */
 @media only screen and (max-width: 780px) {
@@ -54,8 +49,49 @@ body{
 .error-page-content-mobile{
   display: inline-block;
   position: fixed;
-    bottom: 0;
-    right: 0;
+  bottom: 0;
+  right: -8%;
 }
+
+@media only screen and (max-width: 619px) {
+
+.error-page-content-desktop{
+  display: none;
+}
+
+.error-page-content-mobile{
+  display: inline-block;
+  position: fixed;
+  bottom: 8%;
+  right: -25%;
+}
+}
+
+@media only screen and (max-width: 510px) {
+
+.error-page-content-desktop{
+  display: none;
+}
+
+.error-page-content-mobile{
+  display: inline-block;
+  position: fixed;
+  bottom: 8%;
+  right: -35%;
+}
+}
+@media only screen and (max-width: 447px) {
+
+.error-page-content-desktop{
+  display: none;
+}
+
+.error-page-content-mobile{
+  display: inline-block;
+  position: fixed;
+  bottom: 8%;
+  right: -45%;
+}
+
 
 }
