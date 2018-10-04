@@ -78,7 +78,7 @@ body{
   .error-page-content-desktop{
     display: none;
   }
-  
+
   .error-page-content-mobile{
     display: inline-block;
     position: fixed;
